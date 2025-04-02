@@ -1,0 +1,9 @@
+flask
+img2pdf
+pdf2image
+redis
+celery
+pika
+flask-session
+minio
+python-dotenv
