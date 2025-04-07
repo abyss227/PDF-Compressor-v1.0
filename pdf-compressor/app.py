@@ -430,7 +430,7 @@ def index():
     <body>
         <div class="container">
             <header>
-                <h1>Myservices PDF Compressor v1</h1>
+                <h1>PDF Compressor v1</h1>
                 <p class="subtitle">Уменьшите размер ваших PDF файлов</p>
             </header>
             
@@ -493,7 +493,7 @@ def index():
             </div>
             
             <footer>
-                <p>Myservices PDF Compressor v1 &copy; 2025 | Все права защищены | Разработка отдела IT</p>
+                <p>PDF Compressor v1 &copy; 2025 | Все права защищены</p>
             </footer>
         </div>
         
